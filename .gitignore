@@ -1,0 +1,34 @@
+# Visual Studio folders
+.vs/
+x64/
+Debug/
+Release/
+bin/
+obj/
+l240985_.5ad466d3/
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.o
+*.obj
+*.pdb
+*.idb
+*.ilk
+
+# Temporary files
+*.log
+*.tmp
+*.user
+*.suo
+*.cache
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+main.cpp~RF1b0d6a.TMP
